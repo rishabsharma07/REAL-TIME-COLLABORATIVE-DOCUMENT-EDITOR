@@ -28,4 +28,5 @@ In conclusion, a real-time collaborative document editor is an excellent full-st
 
 #OUTPUT
 
-<img width="1898" height="866" alt="Image" src="https://github.com/user-attachments/assets/efa44df3-fcf1-44d9-bc94-4c84e4068a25" />
+<img width="1900" height="868" alt="Image" src="https://github.com/user-attachments/assets/0f500f1e-7cb1-47a2-bf60-0631f1387cd6" />
+<img width="1897" height="865" alt="Image" src="https://github.com/user-attachments/assets/b5a585d8-71f4-48a7-8c91-8b0436d52bee" />
